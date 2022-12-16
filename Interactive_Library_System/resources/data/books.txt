@@ -1,0 +1,7 @@
+15::Pride and Prejudice::Jane Austen::1813::publisher1::
+23::Nineteen Eighty-Four::George Orwell::1949::publisher2::
+42::The Hitchhiker's Guide to the Galaxy::Douglas Adams::1979::publisher3::
+43::The War of The Worlds::H.G. Wells::1898::publisher4::
+44::new book::kostas::2019::publisher5::
+45::help::test::test::publisher6::
+46::test::test::1111::pub7::
